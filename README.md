@@ -1,4 +1,4 @@
-###  Hello there, I'm Talsh
+###  Hello there, I'm Talsh!
 
 #### 20 Years of age, Practical Software Engineer. My work consists of Web Design and Web Development, Game Development, CPU Task Scheduling and Networking Interfaces using various programming languages, frameworks, libraries and developer tools.
 
@@ -13,8 +13,6 @@
 <br />
 
 ### Languages, frameworks, libraries and Tools I use:
-
-<br />
 
 [<img align="left" alt="GitHub Link" width="25px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][html5]
 [<img align="left" alt="GitHub Link" width="25px" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" />][css]
@@ -31,6 +29,14 @@
 [<img align="left" alt="GitHub Link" width="25px" height="25px" src="https://www.svgrepo.com/show/13344/sql-file-format.svg" />][sql]
 [<img align="left" alt="GitHub Link" width="25px" height="25px" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" />][redux]
 [<img align="left" alt="GitHub Link" width="25px" height="25px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />][mongodb]
+
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=talsh123)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talsh123)](https://github.com/anuraghazra/github-readme-stats)
 
 [github]: https://github.com/talsh123/
 [reddit]: https://www.reddit.com/user/talsh123/
