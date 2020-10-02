@@ -31,6 +31,7 @@
 [<img align="left" alt="GitHub Link" width="25px" height="25px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" />][mongodb]
 
 <br />
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=talsh123)](https://github.com/anuraghazra/github-readme-stats)
 
