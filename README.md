@@ -1,6 +1,6 @@
 ###  Hello there, I'm Talsh!
 
-#### 20 Years of age, Practical Software Engineer. My work consists of Web Design and Web Development, Game Development, CPU Task Scheduling and Networking Interfaces using various programming languages, frameworks, libraries and developer tools.
+#### 24 Years of age, Practical Software Engineer. My work consists of Web Design and Web Development, Game Development, CPU Task Scheduling and Networking Interfaces using various programming languages, frameworks, libraries and developer tools.
 
 #### Connect with me: 
 
